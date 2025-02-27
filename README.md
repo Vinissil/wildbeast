@@ -1,8 +1,115 @@
-# wildbeast
-# 🚀 Wildbeast 🐾
+# 🐾 Wildbeast 🐾
 
 ![ladingpage](https://github.com/Vinissil/wildbeast/blob/master/img/wildbeastpage.png)
 ![ladingpage](https://github.com/Vinissil/wildbeast/blob/master/img/homewild.png)
+
+## 📜 License
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+## 🧠 Purpose
+
+Present an interactive and responsive website for studying and improving web development skills. The project combines responsive design, interactivity, and content organization to provide an accessible and informative experience.
+
+## 🔧 Technologies Used
+
+- **Frontend**: HTML5, CSS3
+- **Styling**: CSS for visual organization
+- **Version Control**: Git/GitHub for code management
+
+## ✔️ Project Structure
+
+```bash
+wildbeast/
+│-- img/  # Project images
+│-- index.html  # Main page
+│-- style.css  # Site styles
+│-- README.md  # Project documentation
+│-- .hintrc  # Linting configuration
+```
+
+## 🏆 Project Highlights
+
+### 📱 Responsive Design
+
+- Styles created for adaptation to different devices
+- Optimized experience for mobile, tablet, and desktop
+
+### 🏗️ Modular Structure
+
+- Organized code for easy maintenance and scalability
+
+### 🔥 Interactivity
+
+- Use of visual effects and CSS animations to enhance user experience
+
+## 🎨 Using CSS Grid
+
+The project uses **CSS Grid** to structure the layout flexibly and responsively, ensuring proper alignment of elements.
+
+Example usage in CSS:
+
+```css
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+```
+
+## 📱 Using Media Queries
+
+To ensure the site's responsiveness, we use **Media Queries** in CSS. They allow the layout to adapt to different screen sizes.
+
+Example usage in CSS:
+
+```css
+@media (max-width: 768px) {
+  .container {
+    grid-template-columns: 1fr;
+  }
+}
+```
+
+## 🚀 How to Run the Project
+
+1️⃣ Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/Vinissil/wildbeast.git
+```
+
+2️⃣ Navigate to the project folder:
+
+```bash
+cd wildbeast
+```
+
+3️⃣ Open the `index.html` file in your favorite browser.
+
+## 🤝 Contribution
+
+Contributions are welcome! To contribute:
+
+1. Fork the project.
+2. Create a branch with your feature (`git checkout -b my-feature`).
+3. Commit your changes (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin my-feature`).
+5. Open a Pull Request.
+
+## 📜 License
+
+This project is under the MIT license. Feel free to use and modify it as you wish.
+
+---
+
+📩 If you have any questions, feel free to contact me!
+
+🔗 [LinkedIn](https://www.linkedin.com/in/viniciusouza1/)  
+📧 viniciusssilva79@gmail.com
+
+
+--------------------------------------------------------------------------------------------------------------------------
 
 ## 📜 License
 
