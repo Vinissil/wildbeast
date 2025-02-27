@@ -1,8 +1,8 @@
 # wildbeast
 # 🚀 Wildbeast 🐾
 
-![ladingpage]()
-![ladingpage]()
+![ladingpage](https://github.com/Vinissil/wildbeast/blob/master/img/wildbeastpage.png)
+![ladingpage](https://github.com/Vinissil/wildbeast/blob/master/img/homewild.png)
 
 ## 📜 License
 
